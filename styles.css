@@ -32,6 +32,7 @@ body{
 .profile-image{
     height: 7rem;
     width: 7rem;
+    border: 10PX solid white;
     border-radius: 50%;
     display: flex;
     flex-direction: column;
